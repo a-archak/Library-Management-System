@@ -1,0 +1,8 @@
+1,Harry Potter,JK Rowling,19,$2
+2,Start With Why,Simon Sinek,5,$1.5
+3,Programming With Python,John Smith,20,$1.5
+4,The House Of Mirth,Edith Wharton,3,$.75
+5,East Of Eden,John SteinBeck,9,$1.1
+6,Number The Stars,Lois Lowry,39,$1.3
+7,Code Complete,Steve McConnell,21,$1.0
+8,The Pragmatic Python,Andrew Hunt,20,$1.6
