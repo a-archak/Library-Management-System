@@ -11,7 +11,7 @@ def skribbl():
     # asking for num of characters in the word, remember space counts as well
     value = input("Enter length of word.")
 
-    # converting user input to string
+    # converting user input to integer
     try:
         length = int(value)
     except:
